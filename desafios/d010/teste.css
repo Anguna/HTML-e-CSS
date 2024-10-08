@@ -1,0 +1,53 @@
+@charset "UTF-8";
+@font-face{
+    font-family: robo;
+    src: url(pacote-projeto-d010/fontes/idroid.otf);
+}
+body {
+    margin: auto;
+    background-color: rgb(155, 236, 155);
+}
+header{
+    padding: 10px;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.fonte{
+    font-family: robo;
+}
+h3{
+    color: green;
+    background-color: rgb(129, 221, 129);
+}
+.menu{
+    text-align: left;
+}
+.final{
+    text-align: center;
+}
+#inicio {
+    background-color: green;
+    background-attachment: fixed;
+    text-align: center;
+}
+iframe{
+    border-width: 10px 20px;
+    border-style: solid;
+    border-color: green;
+}
+main{
+    padding: 10px;
+    background-color: white;
+    width: 800px;
+    margin: auto;
+}
+article{
+    background-color: rgb(134, 206, 134);
+}
+h4{
+    background-color: green;
+    color: white;
+}
