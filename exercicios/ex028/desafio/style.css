@@ -2,7 +2,7 @@
 
 div {
     display: grid;
-    grid-template-columns: auto;
+    grid-template-columns: 1fr 2fr 1fr;
     grid-template-rows: 200px 100px 400px 100px;
 }
 
